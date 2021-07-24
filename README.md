@@ -2,4 +2,4 @@
 
 ## Web Crawling Project
 
-> Python selenium & openpyxl을 사용한 재고사항 Exel 처리 
+> Python BeautiulSoap & openpyxl을 사용한 재고사항 Exel 처리 
